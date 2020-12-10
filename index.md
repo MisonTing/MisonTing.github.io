@@ -1,5 +1,6 @@
 # 内容目录（由[TOC]自动生成）
-[toc]
+
+@[TOC]
 
 ## Welcome to GitHub Pages
 
