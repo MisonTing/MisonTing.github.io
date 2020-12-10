@@ -1,6 +1,10 @@
-# 内容目录（由[TOC]自动生成）
+- [Welcome to GitHub Pages](#welcome-to-github-pages)
+  * [Markdown](#markdown)
+  * [Jekyll Themes](#jekyll-themes)
+  * [Support or Contact](#support-or-contact)
 
-@[TOC]
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Welcome to GitHub Pages
 
